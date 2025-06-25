@@ -33,3 +33,5 @@ Entity(table)
 
 ## Django tutorial
 ### Site https://www.geeksforgeeks.org/python/django-tutorial/
+### postresql setting
+https://docs.djangoproject.com/en/5.2/ref/databases/
