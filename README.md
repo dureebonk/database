@@ -29,4 +29,7 @@ Entity(table)
 * address
 * phone_number
 * checkin_time
-* amount_room 
+* amount_room
+
+## Django tutorial
+### Site https://www.geeksforgeeks.org/python/django-tutorial/
