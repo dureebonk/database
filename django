@@ -1,0 +1,4 @@
+## Django Project
+  django-admin startproject tour
+  cd tour
+  python manage.py startapp accommodation
