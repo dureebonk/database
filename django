@@ -21,9 +21,10 @@
 ### uv astral
 1. project init: uv init <project_name>
 1. venv: python version
+1. activate: 
 1. package (libraries): uv add <package_name>
 
 ## Django
 1. django project:  django-admin startproject <project_name>
-  cd tour
-  python manage.py startapp accommodation
+1. cd <project_name>
+1. create app: python manage.py startapp <app_name>
