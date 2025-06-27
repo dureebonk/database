@@ -12,9 +12,16 @@
 1. postgreSQL install
 2. pgAdmin4: web cient for postgreSQL
 * database server connect: 
+* create user: Login/Group Roles -> priviledges
+* create database
+* create table
 
+# Django web framework
+## python setup
+### uv astral
+1. project init: uv init <project_name>
+2. venv: python version, package (libraries)
 
-# Django Project
   django-admin startproject tour
   cd tour
   python manage.py startapp accommodation
