@@ -1,4 +1,20 @@
-## Django Project
+# Basic command
+1. mkdir <dir_name>
+2. dir
+3. cd <dir_name>
+4. special directory name: 
+* home directory: ~
+* parent directory: ..
+* root directory: \   (linux or mac: /)
+* absolute path vs relative path
+
+# Database
+1. postgreSQL install
+2. pgAdmin4: web cient for postgreSQL
+* database server connect: 
+
+
+# Django Project
   django-admin startproject tour
   cd tour
   python manage.py startapp accommodation
