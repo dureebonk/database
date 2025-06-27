@@ -20,8 +20,10 @@
 ## python setup
 ### uv astral
 1. project init: uv init <project_name>
-2. venv: python version, package (libraries)
+1. venv: python version
+1. package (libraries): uv add <package_name>
 
-  django-admin startproject tour
+## Django
+1. django project:  django-admin startproject <project_name>
   cd tour
   python manage.py startapp accommodation
