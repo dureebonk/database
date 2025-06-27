@@ -5,6 +5,7 @@
 4. special directory name: 
 * home directory: ~
 * parent directory: ..
+* my self: .
 * root directory: \   (linux or mac: /)
 * absolute path vs relative path
 
@@ -28,3 +29,10 @@
 1. django project:  django-admin startproject <project_name>
 1. cd <project_name>
 1. create app: python manage.py startapp <app_name>
+1. project setting: <project_name>\setting.py
+1. database connect: 
+* python package install: psycopg[binary]
+* database setting
+1. make migrations: python manage.py makemigrations
+1. migrate: python manage.py migrate
+1. create superuser: 
