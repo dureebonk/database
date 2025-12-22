@@ -54,7 +54,6 @@ The following shows the basic syntax of the DELETE statement:
 DELETE FROM table_name
 WHERE condition;
 ```
-
 In this syntax:
 
 First, specify the name (table_name) of the table from which you want to delete data after the DELETE FROM keywords.
@@ -62,3 +61,8 @@ Second, specify a condition in the WHERE clause to determine which rows to delet
 The WHERE clause is optional. If you omit the WHERE clause, the DELETE statement will delete all rows in the table.
 
 The DELETE statement returns the number of rows deleted. It returns zero if the DELETE statement did not delete any row.
+
+### Select
+
+https://neon.com/postgresql/postgresql-tutorial/postgresql-select
+
