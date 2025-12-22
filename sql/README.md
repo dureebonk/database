@@ -17,8 +17,10 @@ The PostgreSQL INSERT statement allows you to insert a new row into a table.
 
 Here’s the basic syntax of the INSERT statement:
 
-```sql INSERT INTO table1(column1, column2, …)
-VALUES (value1, value2, …);```
+```sql
+INSERT INTO table1(column1, column2, …)
+VALUES (value1, value2, …);
+```
 
 In this syntax:
 
