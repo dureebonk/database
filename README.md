@@ -1,7 +1,7 @@
 # Database
 ## Tutorial site
-https://www.pgtutorial.com/
-https://neon.com/postgresql/tutorial
+* https://www.pgtutorial.com/
+* https://neon.com/postgresql/tutorial
 
 ## Example
 Entity(table)
